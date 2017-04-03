@@ -11,7 +11,7 @@
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <module name="xcode-build-increase" />
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xcode-build-increase.py" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xcode-build-increment.py" />
     <option name="PARAMETERS" value="Info.plist" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />

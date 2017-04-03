@@ -12,7 +12,7 @@ Watch App Extension/Info.plist"
 
 for f in $FILES
 do
-	python3 xcode-build-increase.py "$f"
+	python3 xcode-build-increment.py "$f"
 done
 
 # restore $IFS
